@@ -3,7 +3,7 @@ const router = express.Router();
 
 const Usuario = require('../controllers/usuario.controller.js');
 
-// Rutas para el controlador de Usuario
+// Rutas para el controlador de Usuarios
 
 router.post('/api/usuarios/create', Usuario.create);
 router.get('/api/usuarios/all', Usuario.findAll);
