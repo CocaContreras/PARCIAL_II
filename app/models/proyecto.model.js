@@ -21,7 +21,6 @@ module.exports = (sequelize, Sequelize) => {
       fecha_creacion: {
         type: Sequelize.DATETIME,
         allowNull: false,
-        defaultValue: Sequelize.NOW
       }
     });
   
