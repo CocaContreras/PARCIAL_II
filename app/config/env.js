@@ -1,8 +1,8 @@
 const env = {
-    database: 'coca_umg_11854',
-    username: 'coca_umg_11854_user',
-    password: 'Z0MQrzHv4dAfTsTZuSpcRymPF0ExcDpp',
-    host: 'dpg-crtlh8btq21c73fubfv0-a.oregon-postgres.render.com',
+  database: 'cokita_umg_11854',
+  username: 'cokita_umg_11854_user',
+  password: 'K8yGGpplWMFii9hBILG6X4UuTMW1Gp7t',
+  host: 'dpg-csleb1bqf0us738rvm30-a.oregon-postgres.render.com',
     dialect: 'postgres',
     pool: {
       max: 5,
